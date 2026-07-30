@@ -11,6 +11,6 @@ public:
        for(auto x:freq){
         if(x.second!=0)return false;
        }
-       return true;
+       return true; 
     }
 };
